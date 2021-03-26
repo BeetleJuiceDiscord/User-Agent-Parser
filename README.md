@@ -1,6 +1,5 @@
 # Some Information
-This is just a simple user agent parser I made because I was bored
-It only works on Windows :(
+This is just a simple user agent parser made w/ httpparser module
 
 ## Required Modules
 os, httpagentparser
